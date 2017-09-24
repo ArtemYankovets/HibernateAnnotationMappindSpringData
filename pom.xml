@@ -22,6 +22,7 @@
             <artifactId>hibernate-core</artifactId>
             <version>5.2.11.Final</version>
         </dependency>
+
         <!-- http://projects.spring.io/spring-data-jpa/ -->
         <dependency>
             <groupId>org.springframework.data</groupId>
